@@ -59,6 +59,6 @@ npm run build
 This will regenerate the `/dist` directory.
 
 ### 5. Upload to nETHz
-You can now copy the `/dist` directory into the directory you specified in step 2 on your nETHz webspace.
+You can now copy the contents of the `/dist` directory into the directory you specified in step 2 on your nETHz webspace.
 
 Dalai should be waiting for you there now :)
